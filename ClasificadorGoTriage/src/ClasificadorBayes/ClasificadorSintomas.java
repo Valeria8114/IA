@@ -257,9 +257,9 @@ public class ClasificadorSintomas {
 		
 		
 		
-		String alim=JOptionPane.showInputDialog("Introduce un texto");
+		String sintomas=JOptionPane.showInputDialog("Introduce los sintomas");
 		
-				haz.adivina(alim);
+				haz.adivina(sintomas);
 
 
 		
